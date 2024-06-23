@@ -1,0 +1,30 @@
+html {
+    background-size: 100%;
+    background-color: lightblue;
+    background-repeat: no-repeat;
+}
+
+#indexFieldSet {
+    border-color: #120076;
+    border-style: flat;
+    width: 75%;
+    margin: auto;
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    color: rgb(147, 147, 177);
+    text-align: center;
+    }
+
+h2 {
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    color: #687796;
+    }
+
+p, ul, #navBar {
+    font-family: sans-serif;
+    color: lightgrey;
+    line-height: 125%;
+    }
