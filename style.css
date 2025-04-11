@@ -1,4 +1,125 @@
+
+#intro {
+    padding-right: 70px;
+    padding-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #003e60;
+    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
+    -webkit-text-stroke-width: 2px;
+    font-weight: bold;
+    paint-order: stroke fill;
+    font-size: large;
+
+}
+
+p {
+    padding-right: 70px;
+    padding-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #003e60;
+    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
+    -webkit-text-stroke-width: 2px;
+    font-weight: bold;
+    paint-order: stroke fill;
+    font-size: large;
+}
+
+h2 {
+    padding-right: 70px;
+    padding-left: 70px;
+    font-family:Impact, Arial, Helvetica, sans-serif;
+    -webkit-text-fill-color: #003e60;
+    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
+    -webkit-text-stroke-width: 3px;
+    font-weight: bold;
+    paint-order: stroke fill;
+
+}
+
+ul {
+    padding-right: 70px;
+    padding-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #003e60;
+    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
+    -webkit-text-stroke-width: 2px;
+    font-weight: bold;
+    paint-order: stroke fill;
+
+}
+
+#welcome {
+    padding-top: 30px;
+    padding-right: 70px;
+    padding-left: 70px;
+    color: #003e60;
+    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
+    -webkit-text-stroke-width: 4px;
+    font-weight: bold;
+    paint-order: stroke fill;
+    font-family:Impact, Arial, Helvetica, sans-serif;
+
+}
+
+#platform {
+    padding-right: 70px;
+    padding-left: 70px;
+    color: #003e60;
+    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
+    -webkit-text-stroke-width: 4px;
+    font-weight: bold;
+    paint-order: stroke fill;
+    font-family:Impact, Arial, Helvetica, sans-serif;
+}
+
+a {
+    -webkit-text-fill-color: #f86016;
+    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
+    -webkit-text-stroke-width: 2px;
+    font-weight: bold;
+    paint-order: stroke fill;
+
+}
+
+.container-fluid{
+    -webkit-text-fill-color: #003e60;
+    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
+    -webkit-text-stroke-width: 4px;
+    font-weight: bold;
+    paint-order: stroke fill;
+    background-color: #f8f9fa;
+}
+
+.fix-stroke{
+    paint-order: stroke fill;
+}
+
+#platform-width{
+    width: 960px;
+    background-color: #003e6043;
+
+}
+
+#row-2{
+    background-color: #003e60;
+}
+
+#welcomepage{
+    background-color: white;
+}
+
+#platformpage{
+    background-image: linear-gradient(white, #3c7597 );
+}
+
+#row-1{
+    background-color: #003e6010;
+}
+
+footer{
+    background-color: #003e60;
+}
+
 body{
-    background-color: steelblue;
-    font-family: monospace;
+    background-color: #003e60;
 }
