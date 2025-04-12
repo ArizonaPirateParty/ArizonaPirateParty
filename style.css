@@ -20,12 +20,7 @@ p {
     -webkit-text-stroke-width: 2px;
     font-weight: bold;
     paint-order: stroke fill;
-    @media screen and (max-width:450px) {
-       font-size: 5px; 
-    }
-    @media screen and (min-width:450px) {
-        font-size: 14px;
-    }
+    font-size: large;
 }
 
 h2 {
