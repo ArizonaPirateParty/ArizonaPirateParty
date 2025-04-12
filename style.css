@@ -8,7 +8,7 @@
     -webkit-text-stroke-width: 2px;
     font-weight: bold;
     paint-order: stroke fill;
-
+    font-size: large;
 }
 
 p {
