@@ -8,7 +8,6 @@
     -webkit-text-stroke-width: 2px;
     font-weight: bold;
     paint-order: stroke fill;
-    font-size: 14vw;
 
 }
 
@@ -21,9 +20,11 @@ p {
     -webkit-text-stroke-width: 2px;
     font-weight: bold;
     paint-order: stroke fill;
-    font-size: 14vw;
     @media screen and (max-width:450px) {
        font-size: smaller; 
+    }
+    @media screen and (min-width:450px) {
+        font-size: 14px;
     }
 }
 
