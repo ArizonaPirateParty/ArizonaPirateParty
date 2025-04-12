@@ -22,6 +22,10 @@ p {
     font-weight: bold;
     paint-order: stroke fill;
     font-size: 5px;
+        @media screen and (max-width:450px) {
+       font-size: smaller; 
+    }
+}
 
 h2 {
     padding-right: 70vw;
