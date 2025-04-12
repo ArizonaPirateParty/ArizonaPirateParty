@@ -95,7 +95,7 @@ a {
 }
 
 #platform-width{
-    width: 50%;
+    width: fit-content;
     background-color: #003e6043;
 
 }
