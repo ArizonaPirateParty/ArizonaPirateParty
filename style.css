@@ -1,11 +1,11 @@
 
 #intro {
-    padding-right: 70px;
-    padding-left: 70px;
+    padding-right: 70vw;
+    padding-left: 70vw;
     font-family: Arial, Helvetica, sans-serif;
     color: #003e60;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2vw;
     font-weight: bold;
     paint-order: stroke fill;
     font-size: 14vw;
@@ -13,24 +13,24 @@
 }
 
 p {
-    padding-right: 70px;
-    padding-left: 70px;
+    padding-right: 70vw;
+    padding-left: 70vw;
     font-family: Arial, Helvetica, sans-serif;
     color: #003e60;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2vw;
     font-weight: bold;
     paint-order: stroke fill;
     font-size: 14vw;
 }
 
 h2 {
-    padding-right: 70px;
-    padding-left: 70px;
+    padding-right: 70vw;
+    padding-left: 70vw;
     font-family:Impact, Arial, Helvetica, sans-serif;
     -webkit-text-fill-color: #003e60;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-width: 3vw;
     font-weight: bold;
     paint-order: stroke fill;
     font-size: 30vw;
@@ -38,24 +38,24 @@ h2 {
 }
 
 ul {
-    padding-right: 70px;
-    padding-left: 70px;
+    padding-right: 70vw;
+    padding-left: 70vw;
     font-family: Arial, Helvetica, sans-serif;
     color: #003e60;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2vw;
     font-weight: bold;
     paint-order: stroke fill;
     font-size: 14vw;
 }
 
 #welcome {
-    padding-top: 30px;
-    padding-right: 70px;
-    padding-left: 70px;
+    padding-top: 30vw;
+    padding-right: 70vw;
+    padding-left: 70vw;
     color: #003e60;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-width: 4vw;
     font-weight: bold;
     paint-order: stroke fill;
     font-family:Impact, Arial, Helvetica, sans-serif;
@@ -63,11 +63,11 @@ ul {
 }
 
 #platform {
-    padding-right: 70px;
-    padding-left: 70px;
+    padding-right: 70vw;
+    padding-left: 70vw;
     color: #003e60;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-width: 4vw;
     font-weight: bold;
     paint-order: stroke fill;
     font-family:Impact, Arial, Helvetica, sans-serif;
@@ -76,7 +76,7 @@ ul {
 a {
     -webkit-text-fill-color: #f86016;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2vw;
     font-weight: bold;
     paint-order: stroke fill;
 
@@ -85,7 +85,7 @@ a {
 .container-fluid{
     -webkit-text-fill-color: #003e60;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-width: 4vw;
     font-weight: bold;
     paint-order: stroke fill;
     background-color: #f8f9fa;
@@ -104,7 +104,7 @@ a {
 #row-2{
     background-color: #003e60;
     width: 100%;
-    row-gap: 0px;
+    row-gap: 0vw;
 }
 
 #welcomepage{
@@ -119,12 +119,12 @@ a {
 
 #row-1{
     background-color: #003e6010;
-    row-gap: 0px;
+    row-gap: 0vw;
 }
 
 footer{
     background-color: #003e60;
-    row-gap: 0px;
+    row-gap: 0vw;
 }
 
 body{
