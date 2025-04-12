@@ -21,7 +21,7 @@ p {
     font-weight: bold;
     paint-order: stroke fill;
     @media screen and (max-width:450px) {
-       font-size: smaller; 
+       font-size: 5px; 
     }
     @media screen and (min-width:450px) {
         font-size: 14px;
@@ -37,8 +37,12 @@ h2 {
     -webkit-text-stroke-width: 3px;
     font-weight: bold;
     paint-order: stroke fill;
-    font-size: 30vw;
-
+    @media screen and (max-width:450px) {
+       font-size: 10px; 
+    }
+    @media screen and (min-width:450px) {
+        font-size: 30px;
+    }
 }
 
 ul {
@@ -50,7 +54,12 @@ ul {
     -webkit-text-stroke-width: 2px;
     font-weight: bold;
     paint-order: stroke fill;
-    font-size: 14vw;
+    @media screen and (max-width:450px) {
+       font-size: 5px; 
+    }
+    @media screen and (min-width:450px) {
+        font-size: 14px;
+    }
 }
 
 #welcome {
