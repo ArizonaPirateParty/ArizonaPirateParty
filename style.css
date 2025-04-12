@@ -21,7 +21,7 @@ p {
     -webkit-text-stroke-width: 2vw;
     font-weight: bold;
     paint-order: stroke fill;
-    font-size: 14vw;
+    font-size: 14px;
 }
 
 h2 {
