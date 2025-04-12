@@ -58,7 +58,7 @@ ul {
     font-weight: bold;
     paint-order: stroke fill;
     font-family:Impact, Arial, Helvetica, sans-serif;
-
+    width: 100%;
 }
 
 #platform {
@@ -95,31 +95,41 @@ a {
 }
 
 #platform-width{
-    width: 960px;
+    width: 50%;
     background-color: #003e6043;
 
 }
 
 #row-2{
     background-color: #003e60;
+    width: 100%;
+    row-gap: 0px;
 }
 
 #welcomepage{
     background-color: white;
+    width: 100%;
 }
 
 #platformpage{
     background-image: linear-gradient(white, #3c7597 );
+    width: 100%;
 }
 
 #row-1{
     background-color: #003e6010;
+    row-gap: 0px;
 }
 
 footer{
     background-color: #003e60;
+    row-gap: 0px;
 }
 
 body{
     background-color: #003e60;
+}
+
+#banner{
+    width: 100%;
 }
