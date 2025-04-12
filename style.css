@@ -21,7 +21,7 @@ p {
     -webkit-text-stroke-width: 2vw;
     font-weight: bold;
     paint-order: stroke fill;
-    font-size: 5vw;
+    font-size: 5px;
 
 h2 {
     padding-right: 70vw;
@@ -45,7 +45,7 @@ ul {
     -webkit-text-stroke-width: 2vw;
     font-weight: bold;
     paint-order: stroke fill;
-    font-size: 5vw;
+    font-size: 5px;
 }
 
 #welcome {
