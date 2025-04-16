@@ -131,6 +131,7 @@ footer{
 
 #banner{
     width: 100%;
+    visibility: visible;
 }
 
 .tooltip .tooltiptext {
