@@ -3,7 +3,7 @@
     padding-right: 70px;
     padding-left: 70px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #003e60;
+    color: #002768;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 2px;
     font-weight: bold;
@@ -15,7 +15,7 @@ p {
     padding-right: 70px;
     padding-left: 70px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #003e60;
+    color: #002768;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 2px;
     font-weight: bold;
@@ -27,7 +27,7 @@ h2 {
     padding-right: 70px;
     padding-left: 70px;
     font-family:Impact, Arial, Helvetica, sans-serif;
-    -webkit-text-fill-color: #003e60;
+    -webkit-text-fill-color: #002768;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 3px;
     font-weight: bold;
@@ -39,7 +39,7 @@ ul {
     padding-right: 70px;
     padding-left: 70px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #003e60;
+    color: #002768;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 2px;
     font-weight: bold;
@@ -51,7 +51,7 @@ ul {
     padding-top: 30px;
     padding-right: 70px;
     padding-left: 70px;
-    color: #003e60;
+    color: #002768;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 4px;
     font-weight: bold;
@@ -63,7 +63,7 @@ ul {
 #platform {
     padding-right: 70px;
     padding-left: 70px;
-    color: #003e60;
+    color: #002768;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 4px;
     font-weight: bold;
@@ -72,7 +72,7 @@ ul {
 }
 
 a {
-    -webkit-text-fill-color: #f86016;
+    -webkit-text-fill-color: #B71523;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 2px;
     font-weight: bold;
@@ -81,7 +81,7 @@ a {
 }
 
 .container-fluid{
-    -webkit-text-fill-color: #003e60;
+    -webkit-text-fill-color: #002768;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 4px;
     font-weight: bold;
@@ -95,12 +95,12 @@ a {
 
 #platform-width{
     width: fit-content;
-    background-color: #003e6043;
+    background-color: #00276843;
 
 }
 
 #row-2{
-    background-color: #003e60;
+    background-color: #002768;
     width: 100%;
     row-gap: 0px;
 }
@@ -111,22 +111,22 @@ a {
 }
 
 #platformpage{
-    background-image: linear-gradient(white, #3c7597 );
+    background-image: linear-gradient(#F8D702, #D45A0E );
     width: 100%;
 }
 
 #row-1{
-    background-color: #003e6010;
+    background-color: #d45a0e34;
     row-gap: 0px;
 }
 
 footer{
-    background-color: #003e60;
+    background-color: #002768;
     row-gap: 0px;
 }
 
 body{
-    background-color: #003e60;
+    background-color: #002768;
 }
 
 #banner{
