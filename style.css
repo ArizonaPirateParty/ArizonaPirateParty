@@ -35,6 +35,18 @@ h2 {
     font-size: large;
 }
 
+h3 {
+    padding-right: 70px;
+    padding-left: 70px;
+    font-family:Impact, Arial, Helvetica, sans-serif;
+    -webkit-text-fill-color: #007a1a;
+    -webkit-text-stroke: rgb(255, 255, 255);
+    -webkit-text-stroke-width: 3px;
+    font-weight: bold;
+    paint-order: stroke fill;
+    font-size: medium;
+}
+
 ul {
     padding-right: 70px;
     padding-left: 70px;
@@ -60,7 +72,7 @@ ul {
     width: 100%;
 }
 
-#platform {
+#platform, #board {
     padding-right: 70px;
     padding-left: 70px;
     color: #007a1a;
@@ -69,6 +81,7 @@ ul {
     font-weight: bold;
     paint-order: stroke fill;
     font-family:Impact, Arial, Helvetica, sans-serif;
+    margin-top: 0.66em;
 }
 
 a {
@@ -77,7 +90,10 @@ a {
     -webkit-text-stroke-width: 2px;
     font-weight: bold;
     paint-order: stroke fill;
+}
 
+a:link, a:visited {
+    text-decoration: none;
 }
 
 .container-fluid{
@@ -93,9 +109,9 @@ a {
     paint-order: stroke fill;
 }
 
-#platform-width{
+#platform-width, #board-width{
     width: fit-content;
-    background-color: #00276843;
+    /* background-color: #00276843; What is this for? I'll re-enable it in the case of errors.*/
 
 }
 
@@ -110,9 +126,10 @@ a {
     width: 100%;
 }
 
-#platformpage{
+#platformpage, #boardpage{
     background-image: linear-gradient(#679fff, #ff731d );
     width: 100%;
+    padding-bottom: 1em;
 }
 
 #row-1{
