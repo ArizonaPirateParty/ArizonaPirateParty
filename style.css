@@ -32,7 +32,7 @@ h2 {
     -webkit-text-stroke-width: 3px;
     font-weight: bold;
     paint-order: stroke fill;
-    font-size: large;
+    /* font-size: large; */
 }
 
 h3 {
@@ -44,7 +44,7 @@ h3 {
     -webkit-text-stroke-width: 3px;
     font-weight: bold;
     paint-order: stroke fill;
-    font-size: medium;
+    /* font-size: large; */
 }
 
 ul {
