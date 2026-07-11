@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Email</title>
+  <rect width="48" height="48" rx="10" fill="#007a1a"/>
+  <path fill="#fff" d="M12 16h24v16H12V16Zm3.1 2.7 8.9 6.1 8.9-6.1H15.1Zm18.9 10V21.4l-10 6.9-10-6.9v7.3h20Z"/>
+</svg>

@@ -1,0 +1,19 @@
+# Arizona Pirate Party
+
+> The Arizona Pirate Party is an emerging Arizona political party focused on digital reform, government transparency, privacy, and civil liberties.
+
+## Core pages
+
+- [Home](https://azpirateparty.org/): Arizona Pirate Party overview with calls to join Discord, donate, and become a member.
+- [Platform](https://azpirateparty.org/platform.html): Long-form platform covering privacy, transparency, civil liberties, healthcare, education, and reform positions.
+- [Join](https://azpirateparty.org/join.html): Membership signup form and organizer contact paths.
+- [Donate](https://azpirateparty.org/donate.html): Donation link and donor transparency requirements.
+- [Candidates](https://azpirateparty.org/candidates.html): 2026 candidate information.
+- [About](https://azpirateparty.org/about.html): Council, officer, and county captain roles.
+
+## Contact
+
+- Email: arizonapirateparty@gmail.com
+- Discord: https://discord.gg/6byTSC22NW
+- X: https://x.com/AZPirateParty
+- Bluesky: https://bsky.app/profile/azpirateparty.org
